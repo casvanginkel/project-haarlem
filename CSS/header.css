@@ -1,5 +1,14 @@
 header {
-  background-color: #ae1c28;
+  background-color: #ae1c2800;
   width: 100%;
   height: 50px;
+}
+header img {
+  scale: 50%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }

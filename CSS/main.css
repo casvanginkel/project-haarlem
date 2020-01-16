@@ -1,7 +1,7 @@
 body {
   background-image: url(../fotos/achtergrond-foto.jpg);
   background-size: cover, cover;
-  background-position: fixed;
+  background-position: relative;
 }
 main #engels {
   float: left;
