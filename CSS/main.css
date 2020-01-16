@@ -1,0 +1,65 @@
+body {
+  background-image: url(../fotos/achtergrond-foto.jpg);
+  background-size: cover, cover;
+  background-position: fixed;
+}
+main #engels {
+  float: left;
+  margin: auto;
+  height: 360px;
+  width: 720px;
+  box-shadow: 10px 20px rgba(0, 0, 0, 0.5);
+  /* -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.521);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.521);
+  -moz-box-shadow: 0 0 5px 2px #fff; */
+}
+main #nederlands {
+  float: right;
+  margin: auto;
+  height: 360px;
+  width: 720px;
+  box-shadow: 10px 20px rgba(0, 0, 0, 0.5);
+  /* -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.521);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.521);
+  -moz-box-shadow: 0 0 5px 2px #fff; */
+}
+main #wrapper {
+  width: 70%;
+  height: 360px;
+  margin: 0 auto;
+  margin-top: 400px;
+}
+main #engels img {
+  height: 360px;
+  width: 720px;
+}
+main #nederlands img {
+  height: 360px;
+  width: 720px;
+}
+main #engelstxt {
+  font-size: xx-large;
+  margin: auto;
+  float: left;
+  font-weight: bolder;
+}
+main #nederlandstxt {
+  font-size: xx-large;
+  margin: auto;
+  float: right;
+  font-weight: bolder;
+}
+main #wrappertxt {
+  width: 50%;
+  height: 360px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+main #nederlandstxt a {
+  text-decoration: none;
+  color: white;
+}
+main #engelstxt a {
+  text-decoration: none;
+  color: white;
+}
