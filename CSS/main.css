@@ -63,3 +63,6 @@ main #engelstxt a {
   text-decoration: none;
   color: white;
 }
+div #foreground map {
+  margin: 10 auto;
+}
